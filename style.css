@@ -90,30 +90,16 @@
       padding: 0 2rem;
   }
   .hero h1 {
-      font-size: 4.5rem;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-size: 4.85rem;
       margin-bottom: 0.3rem;
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
   .hero p {
+      font-family: 'Plus Jakarta Sans', sans-serif;
       font-size: 1.5rem;
       max-width: 600px;
       margin-bottom: 3rem;
-  }
-  .btn {
-      display: inline-block;
-      padding: 0.75rem 1.5rem;
-      background-color: var(--accent-color);
-      color: var(--light-text);
-      text-decoration: none;
-      border-radius: 50px;
-      font-weight: bold;
-      transition: var(--transition);
-      border: none;
-      cursor: pointer;
-  }
-  .btn:hover {
-      background-color: #C45A1F;
-      transform: translateY(-2px);
   }
   /* Welcome Section */
   .welcome-section {
